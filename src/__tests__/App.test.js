@@ -66,7 +66,7 @@ test("displays the correct links", () => {
 
 // Newsletter Form - Initial State
 test("the form includes text inputs for name and email address", () => {
-  // your test code here
+ 
 });
 
 test("the form includes three checkboxes to select areas of interest", () => {
